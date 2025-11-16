@@ -34,7 +34,7 @@ If you want to open the Unity project:
 
 ## Video Demo
 - **Video:** *[Insert link here]*  
-- **SRT subtitles file location:** `Assets/Documentation/rockfall_demo.srt`
+- **SRT subtitles file location:** `https://drive.google.com/file/d/1ZdTfjcK7LzvWVPUcSUpeB6Ma2XvXuyGL/view?usp=sharing`
 
 ## Group Members & Contribution Summary
 - **Chelsea Leigh Pascua**  - Game Developer
