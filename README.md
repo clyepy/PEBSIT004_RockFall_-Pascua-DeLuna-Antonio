@@ -33,7 +33,7 @@ If you want to open the Unity project:
 
 
 ## Video Demo
-- **Video:** *[Insert link here]*  
+- **Video:** *[[Click link here]](https://drive.google.com/file/d/1TXwaRN2xoKThkEcY9Hz8vcII4Ib3xzVf/view?usp=sharing)*  
 - **SRT subtitles file location:** `https://drive.google.com/file/d/1ZdTfjcK7LzvWVPUcSUpeB6Ma2XvXuyGL/view?usp=sharing`
 
 ## Group Members & Contribution Summary
